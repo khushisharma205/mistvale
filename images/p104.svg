@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Masala Chai Blend</title>
+  <desc id="desc">A warming chai blend with ginger, cardamom and spice.</desc>
+  <rect width="800" height="800" fill="#f6f1e7"/>
+  <rect x="180" y="100" width="440" height="560" rx="32" fill="#1f3d2b"/>
+  <rect x="214" y="136" width="372" height="480" rx="16" fill="#f6efe2"/>
+  <path d="M298 200c44 64 101 125 175 163 16-46 23-98 20-157-71 16-142 15-195-6Z" fill="#d9962b" opacity="0.26"/>
+  <path d="M250 498c89-10 168-18 264 2 28 12 43 26 60 42H190c18-27 34-35 60-44Z" fill="#4f7942" opacity="0.18"/>
+  <text x="400" y="295" text-anchor="middle" font-family="Georgia, serif" font-size="52" fill="#1f3d2b">Masala</text>
+  <text x="400" y="346" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" letter-spacing="5" fill="#4f7942">CHAI</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#1f3d2b">GINGER · CARDAMOM · CLOVES</text>
+  <text x="400" y="532" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#1f3d2b">₹399</text>
+</svg>

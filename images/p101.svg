@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Assam Breakfast Black Tea</title>
+  <desc id="desc">An Assam black tea pack with a warm golden-brown label.</desc>
+  <rect width="800" height="800" fill="#f6f1e7"/>
+  <rect x="180" y="100" width="440" height="560" rx="32" fill="#1f3d2b"/>
+  <rect x="214" y="140" width="372" height="480" rx="20" fill="#f2e9d8"/>
+  <rect x="278" y="196" width="220" height="220" rx="18" fill="#d9962b" opacity="0.18"/>
+  <path d="M214 510c105-14 210-10 338 0 0 48-30 86-78 102H292c-52-16-82-54-78-102Z" fill="#d9962b" opacity="0.1"/>
+  <path d="M286 210c42-37 92-58 146-58 49 0 96 16 140 46-18 6-41 17-63 32-50 35-79 71-95 122-21-42-64-87-128-142Z" fill="#1f3d2b" opacity="0.08"/>
+  <text x="400" y="310" text-anchor="middle" font-family="Georgia, serif" font-size="52" fill="#1f3d2b">Assam</text>
+  <text x="400" y="362" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" letter-spacing="6" fill="#4f7942">BREAKFAST</text>
+  <text x="400" y="488" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#1f3d2b">MALTY · BOLD · MORNING CUP</text>
+  <text x="400" y="548" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#1f3d2b">₹349</text>
+</svg>

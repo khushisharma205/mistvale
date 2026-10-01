@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Kashmiri Kahwa</title>
+  <desc id="desc">A saffron green tea pack with warm spice notes.</desc>
+  <rect width="800" height="800" fill="#f6f1e7"/>
+  <rect x="180" y="100" width="440" height="560" rx="32" fill="#d9962b" opacity="0.2"/>
+  <rect x="214" y="136" width="372" height="480" rx="18" fill="#fffef8"/>
+  <path d="M265 514c29-83 68-122 117-152 34 67 83 115 157 149-31 23-63 34-99 41-66 11-115 11-175-38Z" fill="#4f7942" opacity="0.15"/>
+  <path d="M286 206c46 28 76 58 90 102 12-44 42-76 81-96 8 36 22 67 42 90-49 32-96 45-147 45-34 0-60-18-66-43Z" fill="#d9962b" opacity="0.44"/>
+  <text x="400" y="288" text-anchor="middle" font-family="Georgia, serif" font-size="52" fill="#1f3d2b">Kahwa</text>
+  <text x="400" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" letter-spacing="6" fill="#4f7942">KASHMIRI</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#1f3d2b">SAFFRON · CARDAMOM · ALMOND</text>
+  <text x="400" y="534" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#1f3d2b">₹549</text>
+</svg>

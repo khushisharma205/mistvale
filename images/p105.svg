@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Nilgiri Green Tea</title>
+  <desc id="desc">A fresh green tea pack with grassy cool tones.</desc>
+  <rect width="800" height="800" fill="#f6f1e7"/>
+  <rect x="180" y="100" width="440" height="560" rx="32" fill="#4f7942" opacity="0.12"/>
+  <rect x="214" y="136" width="372" height="480" rx="18" fill="#f9fbf7"/>
+  <path d="M264 514c84-25 147-31 230-28 75 3 118 12 170 42H264v-14Z" fill="#4f7942" opacity="0.11"/>
+  <path d="M286 214c53 16 101 44 130 86 25-26 64-45 103-54 6 42 14 72 46 102-40 22-92 35-160 35-54 0-103-18-147-59 8-34 16-66 28-110Z" fill="#4f7942" opacity="0.15"/>
+  <text x="400" y="292" text-anchor="middle" font-family="Georgia, serif" font-size="52" fill="#1f3d2b">Nilgiri</text>
+  <text x="400" y="344" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" letter-spacing="5" fill="#4f7942">GREEN TEA</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#1f3d2b">SMOOTH · GRASSY · FRESH</text>
+  <text x="400" y="533" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#1f3d2b">₹449</text>
+</svg>

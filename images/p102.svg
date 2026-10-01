@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Darjeeling First Flush</title>
+  <desc id="desc">A soft pale tea pack with floral notes and a misty hill feel.</desc>
+  <rect width="800" height="800" fill="#f6f1e7"/>
+  <rect x="178" y="102" width="444" height="560" rx="32" fill="#e8caa0"/>
+  <rect x="214" y="136" width="372" height="480" rx="18" fill="#fff9f2"/>
+  <circle cx="398" cy="260" r="110" fill="#d9d9d9" opacity="0.45"/>
+  <path d="M238 524c77-95 124-143 218-176 42 37 88 88 118 162-32 10-71 15-103 21-54 9-115 8-233-7Z" fill="#4f7942" opacity="0.18"/>
+  <text x="400" y="278" text-anchor="middle" font-family="Georgia, serif" font-size="52" fill="#1f3d2b">First Flush</text>
+  <text x="400" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" letter-spacing="5" fill="#4f7942">DARJEELING</text>
+  <text x="400" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#1f3d2b">FLORAL · DELICATE · MUSCATEL</text>
+  <text x="400" y="532" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#1f3d2b">₹1,299</text>
+</svg>

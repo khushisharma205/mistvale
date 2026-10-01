@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Hibiscus Rose Infusion</title>
+  <desc id="desc">A bright hibiscus tea pack with rose and berry notes.</desc>
+  <rect width="800" height="800" fill="#f6f1e7"/>
+  <rect x="180" y="100" width="440" height="560" rx="32" fill="#f0d8d2"/>
+  <rect x="214" y="136" width="372" height="480" rx="18" fill="#fffaf8"/>
+  <path d="M274 260c35 30 70 38 114 36 37-2 70-14 96-38-10 94-58 157-124 187-31-24-59-62-86-112 0-21 0-42 0-73Z" fill="#d9962b" opacity="0.2"/>
+  <text x="400" y="300" text-anchor="middle" font-family="Georgia, serif" font-size="52" fill="#1f3d2b">Hibiscus</text>
+  <text x="400" y="352" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" letter-spacing="5" fill="#4f7942">ROSE</text>
+  <text x="400" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#1f3d2b">TANGY · FLORAL · ICED</text>
+  <text x="400" y="534" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#1f3d2b">₹599</text>
+</svg>
